@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Riggio</h1>
 <h3 align="center">Soy Desarrollador Full Stack y Diseñador Gráfico, me encanta el mundo de la tecnología y aprender todo el tiempo cosas nuevas.</h3>
 
-- 📫sebastian.riggio@gmail.com**
+- 📫 sebastian.riggio@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
