@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian Riggio</h1>
 <h3 align="center"> Full-stack developer and graphic designer.</h3>
+<h2 align="left">Connect with me:</h2>
 
 - 📫 sebastian.riggio@gmail.com
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
